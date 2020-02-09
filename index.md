@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/pedrocklein/pedrocklein.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, my name is Pedro Costa Klein and I am a PhD student at University of Cologne. I am a Computer Scientist, now adventuring myself in the Health Sciences world. My research is about Computational Neuroscience and Brain Simulation and how to use both to understand the brain mechanisms that underly brain disorders. I am also interested in Computer Vision and Machine Learning.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Apart from that, I am a Dungeons and Dragons enthusiast and I like to mix my programing skills and knowledge to my role as Dungeon Master (so expect to see a repo or two about the theme =) ).
 
-### Markdown
+My main programing language interests are Python, C++, JavaScript and Java, but I am very curious and always open to learn new languages and paradigms.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pedrocklein/pedrocklein.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/pedrocostaklein)
