@@ -1,4 +1,4 @@
-<img src="./src/imgs/id.jpg" alt="It's a pic of me, Pedro" width=30%, height=30%>
+![It's a pic of me, Pedro](./src/imgs/id_small.jpg)
 
 ## About Me
 
