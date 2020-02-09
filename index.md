@@ -1,3 +1,5 @@
+<img src="./src/imgs/id.jpg" alt="It's a pic of me, Pedro" width=30%, height=30%>
+
 ## About Me
 
 Hi, my name is Pedro Costa Klein and I am a PhD student at University of Cologne. I am a Computer Scientist, now adventuring myself in the Health Sciences world. My research is about Computational Neuroscience and Brain Simulation and how to use both to understand the brain mechanisms that underly brain disorders. I am also interested in Computer Vision and Machine Learning.
