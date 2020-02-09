@@ -9,5 +9,5 @@ Apart from that, I am a Dungeons and Dragons enthusiast and I like to mix my pro
 My main programing language interests are Python, C++, JavaScript and Java, but I am very curious and always open to learn new languages and paradigms.
 
 [![Twitter](./src/icons/twitter.png)](https://twitter.com/pedrocostaklein)
-[![Instagram](./src/icons/instagram.png)](https://instagram.com/pedrocostaklein)
-[![Github](./src/icons/github.png)](https://github.com/pedrocostaklein)
+[![Instagram](./src/icons/instagram.png)](https://instagram.com/pedrocklein)
+[![Github](./src/icons/github.png)](https://github.com/pedrocklein)
