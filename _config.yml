@@ -1,6 +1,6 @@
 # Site
 repository: pedrocklein/pedrocklein.github.io
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+favicon: #Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
 version: 2
