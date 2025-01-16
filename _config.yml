@@ -1,1 +1,257 @@
-theme: jekyll-theme-tactile
+# Site
+repository: pedrocklein/pedrocklein.github.io #Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Pedro Costa Klein
+title: Research Assistant at the Institut für Numerische und Angewandte Mathematik, Georg-August-Universität Göttingen
+email: pedrocklein@gmail.com
+# email_title: Email (Email title override)
+phone: 
+# phone_title: Phone (Phone title override)
+website: 
+# website_title: Web (Website title override)
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+twitter_username: pedrocostaklein
+github_username:  pedrocklein
+#stackoverflow_username: "00000001"
+#dribbble_username: jekyll
+#facebook_username: jekyll
+#flickr_username: jekyll
+#instagram_username: jekyll
+linkedin_username: pedrocklein
+#xing_username: jekyll
+#pinterest_username: jekyll
+#youtube_username: jekyll
+orcid_username: 0000-0002-7659-5130
+googlescholar_username: ll3ukqMAAAAJ
+
+# Additional icon links
+additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: src/imgs/id.jpg #Directory of profile image (eg. images/profile.jpg)
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Pedro Costa Klein, and I am a Research Assistant at the University of Göttingen, where I contribute to the infrastructure project of the Collaborative Research Center (CRC) 1456. With a strong background in Computer Science, I have developed extensive expertise in research data management, platform development, and technical support.
+
+  My professional journey includes years of professional experience as a technical support specialist and developer in a university technological environment, and during my academic years, I worked on projects involving topic such as virtual reality, image processing and psychological disorder investigation using simulations of brain functioning. 
+
+  I am a proficient developer, nowadays focused on Python, with technical knowledge on Linux, and Windows, and have hands-on experience with technologies such as Docker, High-Performance Computing clusters Administration, and image processing tools.
+
+  I have been actively involved in research data management, organizing and leading workshops and coordinating reproducibility assessments of academic publications. Additionally, I played a key role in the development of [LiveDocs](https://crc1456.pages.gwdg.de/livedocsrepo/), a research dissemination platform built with Binderhub, Docker, Kubernetes, repo2docker, and Gitlab CI/CD.
+
+  Supporting research projects is another area where I excel, providing IT solutions and managing research data to ensure smooth project execution. 
+
+  On my personal life, I am a Dungeons and Dragons enthusiast and my role in that is most often being the Dungeon Master, (i.e. the storyteller). What I enjoy the most in this is that it allows me to exercise my "creativity muscles" story after story.
+
+
+content:
+  - title: Education
+    layout: list   
+    content:
+      - layout: left
+        title: Universität zu Köln (Köln, Deutschland)
+        sub_title: Ph.D. 
+        caption: (Apr. 2019 – On Hold)
+        quote: >
+          Interdisciplinary program for health sciences
+        description: | # this will include new lines to allow paragraphs
+          - Project on brain activity simulation to investigate alterations promoted by schizophrenia using computational models.
+          - Currently on hold due to professional repositioning
+      - layout: left
+        title: Ludwig Maximilians Universität (München, Deutschland)
+        sub_title: Doktorand 
+        caption: (Apr. 2017 – Mar. 2019)
+        quote: >
+          Department of Human Biologie
+        description: | # this will include new lines to allow paragraphs
+          - Project on brain activity simulation to investigate alterations promoted by schizophrenia using computational models.
+          - PhD interrupted due to a new position in a structured PhD. in Cologne.
+        
+      - layout: left
+        title: Pontifical Catholic University Of Rio Grande Do Sul (Porto Alegre, Brazil)
+        sub_title: Master
+        caption: (Mar. 2014 – Mar. 2016)
+        quote: >
+          Department of Computer Science 
+        description: | # this will include new lines to allow paragraphs
+          - (Awarded with a CAPES scholarship for tuition fees and a monthly stipend)
+          - Development of a method for automatic segmentation of Multiple Sclerosis lesions using Computer Vision.
+
+      - layout: left  
+        title: University of Santa Cruz do Sul (Santa Cruz do Sul, Brazil)
+        sub_title: Bachelor
+        caption: (Mar. 2014 – Mar. 2016)
+        quote: >
+          Department of Computer Science 
+        description: | # this will include new lines to allow paragraphs
+          - (Awarded with a partial funding of 72.5% granted for employees of the university)
+          - Development of an indoor navigation system for supermarkets using augmented reality and geolocation, on Android Smartphones
+
+      - layout: left
+        title: University of Santa Cruz do Sul (Santa Cruz do Sul, Brazil)
+        sub_title: Technical Course in Information Technologi
+        caption: (Mar. 2014 – Mar. 2016)
+        quote: >
+          Professional Education Center
+        description: | # this will include new lines to allow paragraphs
+          - Supervised internship in the Informatics Laboratory of the Ernesto Alves de Oliveira School in Santa Cruz do Sul.           
+
+
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: Institut Für Numerische Und Angewandte Mathematik (NAM) - Georg-august-univesrität Göttingen
+        sub_title: (Göttingen, Deustchland)
+        caption: (May. 2022 – Present)
+        link: https://www.uni-goettingen.de/en/85746.html
+        quote: >
+          Wissenschaftlicher Mitarbeiter in the SFB 1456 project (Postdoctoral Position)
+        description: | # this will include new lines to allow paragraphs
+          - Planning and execution of workshops on Research Data Management topics.
+          - Planning, implementing and maintaining a research dissemination platform (LiveDocs) based on Binderhub, Docker, Kubernetes, repo2docker and Gitlab CI/CD.
+          - Management of Virtual Cloud Servers for the SFB 1456 Binderhub servers.
+          - Helping SFB 1456 subprojects with the development of LiveDocs.
+          - Coordinating the reproducibility assessment of publications within the SFB 1456 project.
+          - Mentoring a student assistant in the reproducibility assessment task.
+          - Technical support to other SFB 1456 subprojects on IT troubleshooting and data management.
+          - Development of a web repository for LiveDocs using Sphinx.
+
+      - layout: left  
+        title: Klinik Und Poliklinik Für Psychiatrie Und Psychotherapie - Uniklin Köln
+        sub_title: (Köln, Deutschland)
+        caption: (Apr. 2019 – Mar. 2022)
+        link: 
+        quote: >
+          Wissenschaftlicher Mitarbeiter (PhD. Position)
+        description: | # this will include new lines to allow paragraphs
+          - Transferred project from Munich on brain functional activity simulations and brain organization characteristics inspection applied to patients with schizophrenia.
+          - Development of simulation scripts in python.
+          - Development and management of Docker containers environment.
+          - Setup of a local High-Performance computing environment for our workgroup.
+          - Maintenance and management of High-Performance Computing environment.
+      
+      - layout: left
+        title: Klinikum Der Universität München - Klinikum Und Poliklinik Für Psychiatrie Und Psychoterapie
+        sub_title: (München, Deutschland)
+        caption: (Feb. 2017 – Mar. 2019)
+        link: 
+        quote: >
+          Wissenschaftlicher Mitarbeiter (Doktorand Position)
+        description: | # this will include new lines to allow paragraphs
+          - Project based on brain functional activity simulations and brain organization characteristics inspection applied to patients with schizophrenia.
+          - Development of simulation scripts in python.
+          - Development and management of Docker containers environment.
+          - Maintenance and management of High-Performance Computing environment.
+      
+      - layout: left
+        title: Virtual Reality Group Of The Pontifical Catholic University, Virtual Reality And Image Processing Research Laboratory
+        sub_title: (Porto Alegre, Brazil)
+        caption: (Mar. 2014 – Dec. 2016)
+        link: 
+        quote: >
+          Researcher Fellow
+        description: | # this will include new lines to allow paragraphs
+          - Worked on a project based on augmented reality applied to an outdoor environment. Enrolled as a former researcher after finishing my master's course in March 2016.
+          - Collaboration on research projects from lab co-workers.
+
+      - layout: left
+        title: IT Sector Of The University Of Santa Cruz Do Sul - SINF
+        sub_title: (Santa Cruz do Sul, Brazil)
+        caption: (Jan. 2010 – Jan. 2014)
+        link: 
+        quote: >
+          Developer
+        description: | # this will include new lines to allow paragraphs
+          - Worked on the migration of the old Academic System of the institution to a web-based format.
+          - Participated in two university entrance exam processes during the test application and correction.
+
+      - layout: left
+        title: IT Sector Of The University Of Santa Cruz Do Sul - SINF
+        sub_title: (Santa Cruz do Sul, Brazil)
+        caption: (Oct.2007 – Jan. 2010)
+        link: 
+        quote: >
+          IT Technical Support
+        description: | # this will include new lines to allow paragraphs
+          - Worked on automating the installation processes for the Academic Systems of the institution.
+          - Achieved “Excellence” grading in the personal evaluation, which means that the employee mastered all the needed skills for the Technical Support position.
+          - Participation in the IT infrastructure preparation of three university entrance exams.
+
+  - title: Language Proficiencies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - Portuguese (Native)
+      - English (Advanced)
+      - German (Intermediate)
+      - French (Basic)
+
+  - title: Computer Proficiencies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - C/C++ (Intermediate)
+      - Java (Basic)
+      - PHP (Basic)
+      - Python (Advanced)
+      - Windows (Advanced)
+      - Linux (Advanced)
+      - HPC Administration (Intermediate)
+      - Network Maintenance (Basic)
+      - Docker (Intermediate)
+      - Image Processing (Intermediate)
+      -Computer Maintenance (Advanced)
+      - Medical Image Processing Tools (Basic)
+
+  - title: Driving Proficiencies
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Driver's License (Category B)
+
+# Footer
+footer_show_references: true
+# references_title: References on request (Override references text)
+
+# Build settings
+theme: modern-resume-theme #(Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
